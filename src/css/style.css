@@ -1,0 +1,11 @@
+ 
+div.board {
+    border:2px solid #456A9A;
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;
+    border-radius:8px;
+    width:205px;
+    height:185px;
+    text-align:center;
+}
+
